@@ -16,4 +16,5 @@ jupyter notebook
 ```
 
 
+<img width="1062" height="834" alt="image" src="https://github.com/user-attachments/assets/8daa8b6f-8c14-4259-bb1b-fdba8eaf2446" />
 
